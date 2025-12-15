@@ -2,5 +2,21 @@
     {
         "package": "galah",
         "url": "https://github.com/AtlasOfLivingAustralia/galah"
+    },
+    {
+        "package": "galaxias",
+        "url": "https://github.com/AtlasOfLivingAustralia/galaxias"
+    },
+        {
+        "package": "corella",
+        "url": "https://github.com/AtlasOfLivingAustralia/corella"
+    },
+        {
+        "package": "delma",
+        "url": "https://github.com/AtlasOfLivingAustralia/delma"
+    },
+        {
+        "package": "potions",
+        "url": "https://github.com/AtlasOfLivingAustralia/potions"
     }
 ]
